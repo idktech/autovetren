@@ -1490,12 +1490,12 @@ sup {
 }
 
 .social-icons a:hover {
-  color: #FFA500;
+  color: #FFFFF;
   background: transparent;
 }
 
 .social-icons a:hover i {
-  color: #FFA500;
+  color: #FFFFFF;
   -webkit-transform: scale(1.2);
   transform: scale(1.2);
 }
