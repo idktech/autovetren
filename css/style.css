@@ -1466,7 +1466,7 @@ sup {
 }
 
 .social-icons i {
-  color: #FFFFFF;
+  color: #3b5998;
   -webkit-transition: all 0.3s cubic-bezier(0, 0, 0.58, 1);
   transition: all 0.3s cubic-bezier(0, 0, 0.58, 1);
 }
@@ -1490,12 +1490,12 @@ sup {
 }
 
 .social-icons a:hover {
-  color: #FFFFF;
+  color: #3b5998;
   background: transparent;
 }
 
 .social-icons a:hover i {
-  color: #FFFFFF;
+  color: #3b5998;
   -webkit-transform: scale(1.2);
   transform: scale(1.2);
 }
